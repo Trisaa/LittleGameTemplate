@@ -1,0 +1,21 @@
+<resources>
+    <!--应用名-->
+    <string name="app_name">ZGO</string>
+    <!--游戏链接-->
+    <string name="game_url">http://files2.17173.com/files/2016/12/8/3/index.html</string>
+    <string name="banner_pingstart_appid">5430</string>
+    <!--banner广告slotid-->
+    <string name="banner_pingstart_slotid">1002036</string>
+    <!--插屏广告appid-->
+    <string name="interstitial_pingstart_appid">5430</string>
+    <!--插屏广告slotid-->
+    <string name="interstitial_pingstart_slotid">1002035</string>
+    <!--刚进入插屏广告开关-->
+    <bool name="start_interstitial_ad_switch">true</bool>
+    <!--Banner广告开关-->
+    <bool name="end_interstitial_ad_switch">true</bool>
+    <!--退出插屏广告开关-->
+    <bool name="banner_ad_switch">true</bool>
+    <!--游戏是否是横屏-->
+    <bool name="is_game_landscape">false</bool>
+</resources>
